@@ -15,6 +15,12 @@
 		"decorators-legacy",
 		"typescript"
 	],
+	"prettier/prettier": [
+		"error",
+		{
+			"endOfLine": "auto"
+		}
+	],
 	"importOrder": ["<THIRD_PARTY_MODULES>", "^@/(.*)$", "^../(.*)", "^./(.*)"],
 	"plugins": ["@trivago/prettier-plugin-sort-imports"]
 }
