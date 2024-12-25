@@ -4,6 +4,7 @@
 	"useTabs": true,
 	"semi": false,
 	"singleQuote": true,
+	"endOfLine": "lf",
 	"jsxSingleQuote": true,
 	"arrowParens": "avoid",
 	"importOrderSeparation": true,
